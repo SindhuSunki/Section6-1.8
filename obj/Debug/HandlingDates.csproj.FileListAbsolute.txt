@@ -1,0 +1,8 @@
+D:\Simplilearn classes\Practice Projects\Section6\HandlingDates\HandlingDates\bin\Debug\HandlingDates.exe.config
+D:\Simplilearn classes\Practice Projects\Section6\HandlingDates\HandlingDates\bin\Debug\HandlingDates.exe
+D:\Simplilearn classes\Practice Projects\Section6\HandlingDates\HandlingDates\bin\Debug\HandlingDates.pdb
+D:\Simplilearn classes\Practice Projects\Section6\HandlingDates\HandlingDates\obj\Debug\HandlingDates.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Practice Projects\Section6\HandlingDates\HandlingDates\obj\Debug\HandlingDates.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\Practice Projects\Section6\HandlingDates\HandlingDates\obj\Debug\HandlingDates.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\Practice Projects\Section6\HandlingDates\HandlingDates\obj\Debug\HandlingDates.exe
+D:\Simplilearn classes\Practice Projects\Section6\HandlingDates\HandlingDates\obj\Debug\HandlingDates.pdb
